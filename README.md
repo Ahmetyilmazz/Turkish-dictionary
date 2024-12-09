@@ -6,7 +6,7 @@ Bu projenin amacı, kullanıcıların internet ortamı olmadan kolay bir şekild
 📌 Proje Özellikleri:
 * Kolay Kullanım: Kullanıcı dostu arayüzü ile alışveriş deneyiminizi en üst seviyeye taşıyın.
 * Arama Fonksiyonu: Kelimeleri hızlıca bulmak için arama çubuğunu kullanın.
-* 
+* ...
 
 !!! => Uygulama tamamen bitmiş durumda değil, eklenecek bir çok özellik ve yenilikler mevcut. Bu halini buraya bırakıyorum. Tavsiye alabilirim. <= !!!
 
